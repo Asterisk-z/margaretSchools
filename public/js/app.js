@@ -19309,8 +19309,87 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */ });
 /* harmony import */ var vue__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! vue */ "./node_modules/vue/dist/vue.esm-bundler.js");
 
+var _hoisted_1 = {
+  "class": "page-wrapper"
+};
+
+var _hoisted_2 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "preloader"
+}, null, -1
+/* HOISTED */
+);
+
+var _hoisted_3 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<header class=\"main-header header-two text-white\"><!--Header-Upper--><div class=\"header-upper\"><div class=\"container-fluid clearfix\"><div class=\"header-inner d-flex align-items-center\"><div class=\"logo-outer\"><div class=\"logo\"><a href=\"/\"><img src=\"assets/images/logo.png\" alt=\"Logo\" title=\"Logo\"></a></div></div><div class=\"nav-outer clearfix\"><!-- Main Menu --><nav class=\"main-menu navbar-expand-lg\"><div class=\"navbar-header\"><!-- Toggle Button --><button type=\"button\" class=\"navbar-toggle\" data-toggle=\"collapse\" data-target=\".navbar-collapse\"><span class=\"icon-bar\"></span><span class=\"icon-bar\"></span><span class=\"icon-bar\"></span></button><div class=\"mobile-logo p-15 m-auto\"><a href=\"/\"><img src=\"assets/images/logo.png\" alt=\"Logo\" title=\"Logo\"></a></div></div><div class=\"navbar-collapse collapse clearfix\"><ul class=\"navigation clearfix\"><li><a href=\"/\">Home</a></li><li><a href=\"/\">About</a></li><li><a href=\"/\">Courses</a></li><li><a href=\"/\">Contact</a></li></ul></div></nav><!-- Main Menu End--></div></div></div></div><!--End Header Upper--></header>", 1);
+
+var _hoisted_4 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"hero-section-two rel z-1 bg-green\"><div class=\"container\"><div class=\"row align-items-center\"><div class=\"col-lg-7\"><div class=\"hero-content-two mt-150 mb-120\"><span class=\"sub-title wow fadeInUp delay-0-2s\">Welcome to Margaret Schools</span><h1 class=\"wow fadeInUp delay-0-4s\">The Best Education that set standard</h1><div class=\"hero-btn mt-15 wow fadeInUp delay-0-8s\"><a href=\"#\" class=\"theme-btn mt-15 style-four br-5\">Get Enlightened<i class=\"fas fa-long-arrow-alt-right\"></i></a></div></div></div></div></div><div class=\"hero-right-image\"><img src=\"assets/images/clock.png\" alt=\"Hero\" class=\"clock d-block d-sm-block d-md-none d-lg-none\"><img class=\"wow fadeInUp delay-0-2s background d-none d-sm-none d-md-block d-lg-block\" src=\"assets/images/background.svg\" alt=\"Heo Right\"></div><div class=\"hero-three-shapes\"><img src=\"assets/images/book.png\" alt=\"Shape\"></div></section>", 1);
+
+var _hoisted_5 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"about-section-two rel py-20 rpy-100\"><div class=\"container\"><div class=\"row align-items-center\"><div class=\"col-lg-6\"><div class=\"about-left rel pt-10 rmb-55 wow fadeInLeft delay-0-2s\"><img src=\"assets/images/about.png\" alt=\"About\"></div></div><div class=\"col-lg-6\"><div class=\"about-content wow fadeInRight delay-0-2s\"><div class=\"section-title mb-30\"><span class=\"sub-title\">Who We Are</span><h2>Margaret Schools</h2></div><p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa libero voluptates debitis facere dolorum nisi id quae blanditiis omnis voluptate amet deleniti incidunt commodi tempore, inventore neque voluptatem repellendus a?</p><i>Natus sit voluptate maccusantium doloremque laudantium totam rem aperiam eaque ipsa quae inventore</i></div></div></div></div></section>", 1);
+
+var _hoisted_6 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createStaticVNode)("<section class=\"offer-section text-center rel z-1 pt-20 pb-50 rpt-40\"><div class=\"container\"><div class=\"row justify-content-center\"><div class=\"col-xl-8 col-lg-9 col-md-10\"><div class=\"section-title mb-65\"><span class=\"sub-title\">Our Courses</span><h2></h2></div></div></div><div class=\"row justify-content-center\"><div class=\"col-xl-2 col-lg-3 col-sm-4 col-6 col-small\"><a class=\"offer-item wow fadeInUp delay-0-2s\" href=\"#\"><img src=\"assets/images/science.svg\" class=\"courses\"><h5>Science</h5></a></div><div class=\"col-xl-2 col-lg-3 col-sm-4 col-6 col-small\"><a class=\"offer-item wow fadeInUp delay-0-4s\" href=\"#\"><img src=\"assets/images/art.svg\" class=\"courses\"><h5>Humanity</h5></a></div><div class=\"col-xl-2 col-lg-3 col-sm-4 col-6 col-small\"><a class=\"offer-item wow fadeInUp delay-0-6s\" href=\"#\"><img src=\"assets/images/technology.svg\" class=\"courses\"><h5>Technology</h5></a></div><div class=\"col-xl-2 col-lg-3 col-sm-4 col-6 col-small\"><a class=\"offer-item wow fadeInUp delay-0-8s\" href=\"#\"><img src=\"assets/images/business.svg\" class=\"courses\"><h5>Business</h5></a></div></div></div></section>", 1);
+
+var _hoisted_7 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("footer", {
+  "class": "main-footer bg-light-theme footer-two pt-40"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "container"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "footer-subscribe mb-55 wow fadeInLeft delay-0-2s"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "subscribe-title"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" <i class=\"flaticon-newspaper\"></i> "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h3", null, "Get update about our school")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("form", {
+  action: "#",
+  method: "post",
+  "class": "wow fadeInRight delay-0-4s"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
+  type: "email",
+  name: "email",
+  placeholder: "Enter Email",
+  required: ""
+}), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
+  value: "submit",
+  "class": "theme-btn style-three br-5",
+  id: "subscribe"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("subscribe "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
+  "class": "fas fa-long-arrow-alt-right"
+})])])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "copyright-area pt-25 pb-45"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("ul", {
+  "class": "footer-menu py-5"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "#"
+}, "Home")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "#"
+}, "About")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", null, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "#"
+}, "Courses")])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "copyright-social"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+  "class": "social-style-two"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "#"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
+  "class": "fab fa-facebook-f"
+})]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "#"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
+  "class": "fab fa-twitter"
+})]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "#"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
+  "class": "fab fa-linkedin-in"
+})]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+  href: "#"
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
+  "class": "fab fa-youtube"
+})])])])])])], -1
+/* HOISTED */
+);
+
 function render(_ctx, _cache) {
-  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("h1", null, "Hello ");
+  var _component_Head = (0,vue__WEBPACK_IMPORTED_MODULE_0__.resolveComponent)("Head");
+
+  return (0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("div", _hoisted_1, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Head, {
+    title: "Welcome"
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Preloader "), _hoisted_2, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" main header "), _hoisted_3, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Hero Section Start "), _hoisted_4, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Hero Section End "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" About Section Start "), _hoisted_5, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" About Section End "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Offer Section Start "), _hoisted_6, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Offer Section End "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Footer Area Start "), _hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Footer Area End ")]);
 }
 
 /***/ }),
