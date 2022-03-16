@@ -43,9 +43,18 @@
     max-width: 150px;
 }
 
+.header-brand-img {
+    width: 100px;
+}
+
+.login-img {
+    background-color: #799AA1;
+}
+
 
 /* @media  (min-width: 992px) {
     .main-menu .mobile-logo {
         max-width: 80px;
     }
 } */
+

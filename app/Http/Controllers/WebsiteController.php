@@ -14,7 +14,7 @@ class WebsiteController extends Controller
      */
     public function index()
     {
-        return Inertia::render('Website/Index');
+        return Inertia::renderWeb('Website/Index');
     }
 
     /**

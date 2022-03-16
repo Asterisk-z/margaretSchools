@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\WebsiteController;
 use Illuminate\Support\Facades\Route;
 
@@ -15,3 +16,6 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [WebsiteController::class, 'index'])->name('web.home');
+
+Route::get('login', [LoginController::class, 'showLoginForm'])->name('auth.showLoginForm');
+Route::post('login', [LoginController::class, 'login'])->name('auth.login');

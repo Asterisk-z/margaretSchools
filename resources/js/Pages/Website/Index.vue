@@ -1,7 +1,9 @@
 <template>
 
-    <div class="page-wrapper">
     <Head title="Welcome" />
+
+    <div class="page-wrapper">
+
         <!-- Preloader -->
         <div class="preloader"></div>
 
@@ -53,10 +55,6 @@
             </div>
             <!--End Header Upper-->
         </header>
-
-
-
-
 
         <!-- Hero Section Start -->
         <section class="hero-section-two rel z-1 bg-green">
@@ -183,5 +181,27 @@
         <!-- Footer Area End -->
 
     </div>
+
+
+
+
+    <!-- Scroll Top Button -->
+    <button class="scroll-top scroll-to-target" data-target="html"><span class="fa fa-angle-up"></span></button>
+
+
 </template>
 
+
+<script>
+import { Head, Link } from '@inertiajs/inertia-vue3';
+export default {
+  components: {
+    Head,
+    Link,
+  },
+}
+</script>
+
+<style scoped>
+    @import '../../../css/app.css';
+</style>
