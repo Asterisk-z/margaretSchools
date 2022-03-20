@@ -44,11 +44,15 @@
 }
 
 .header-brand-img {
-    width: 100px;
+    width: 52px;
 }
 
 .login-img {
     background-color: #799AA1;
+}
+
+.header-brand-img.light-logo {
+    max-width: 50px !important;
 }
 
 

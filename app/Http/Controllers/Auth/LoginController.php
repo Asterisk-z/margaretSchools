@@ -32,10 +32,10 @@ class LoginController extends Controller
 
         $request->session()->regenerate();
 
-        return redirect()->intended(RouteServiceProvider::DASHBOARD);
+        return redirect()->intended(Auth::user()->role.RouteServiceProvider::DASHBOARD);
     }
 
-    public function destroy(Request $request)
+    public function logout(Request $request)
     {
 
         Auth::guard('web')->logout();
@@ -44,6 +44,6 @@ class LoginController extends Controller
 
         $request->session()->regenerateToken();
 
-        return redirect('/');
+        return redirect()->route('auth.login');
     }
 }

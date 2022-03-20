@@ -8501,13 +8501,13 @@ body.fixed-header .page {
     display: flex;
     -ms-flex-align: center;
     align-items: center;
-    margin: 1.5rem 0rem 1.5rem;
+    margin: 0.5rem 0rem 1.5rem;
     -ms-flex-wrap: wrap;
     justify-content: space-between;
     padding: 0;
     /* border-radius: 7px; */
     position: relative;
-    min-height: 50px;
+    /* min-height: 50px; */
     border: 1px solid transparent;
     border-radius: 5px;
 }
@@ -56496,7 +56496,7 @@ body.rtl {
         top: 0;
         position: fixed;
         z-index: 99;
-        background: #fff;
+        background: #c7e0fd;
     }
     .app.sidebar-mini.sidenav-toggled .side-header {
         width: 80px !important;
@@ -56593,7 +56593,7 @@ body.rtl {
     display: flex;
     z-index: 9999 !important;
     border-bottom: 1px solid #e9edf4;
-    background: #ffffff;
+    background: #c7e0fd;
     transition: padding-left 0.3s ease;
 }
 
@@ -56689,7 +56689,7 @@ body.rtl {
     left: 0;
     color: #282f53;
     z-index: 99;
-    background: #fff;
+    background: #c7e0fd;
     -webkit-box-shadow: 0 8px 24px rgba(168, 180, 208, 0.1);
     box-shadow: 0 8px 24px rgba(168, 180, 208, 0.1);
     -webkit-transition: left 450ms ease, width 450ms ease;
@@ -57273,7 +57273,7 @@ body.rtl {
     -webkit-transition: left 0.3s ease, width 450ms ease;
     -o-transition: left 0.3s ease, width 450ms ease;
     transition: left 0.3s ease, width 450ms ease;
-    height: 75px;
+    height: 67px;
 }
 
 .side-header .header-brand-img.toggle-logo,
