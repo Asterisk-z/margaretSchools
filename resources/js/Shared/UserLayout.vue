@@ -54,7 +54,7 @@
 
                     <Logo/>
 
-                    <Navigation :auth="auth"/>
+                    <Navigation/>
                 </div>
                 <!--/APP-SIDEBAR-->
             </div>

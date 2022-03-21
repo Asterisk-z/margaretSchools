@@ -33,7 +33,9 @@
                                             <th>ID</th>
                                             <th>Name</th>
                                             <th>Email</th>
-                                            <th>Class</th>
+                                            <th>Department</th>
+                                            <th>Faculty</th>
+                                            <th>Action</th>
                                         </tr>
                                     </thead>
                                     <tbody>
@@ -41,7 +43,13 @@
                                             <td>{{ key + 1}}</td>
                                             <td>{{ student.name }}</td>
                                             <td>{{ student.email }}</td>
-                                            <td></td>
+                                            <td>{{ student.department }}</td>
+                                            <td>{{ student.faculty }}</td>
+                                            <td>
+                                                <Link :href="`/admin/student-management/${student.id}/display/${student.registrationNumber}`" class="btn btn-primary btn-sm ml-3">
+                                                    <i class="fa fa-eye fa-1.5x "></i>
+                                                </Link>
+                                            </td>
                                         </tr>
 
                                     </tbody>

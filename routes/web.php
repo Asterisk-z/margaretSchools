@@ -2,6 +2,9 @@
 
 use App\Http\Controllers\Admin\DashbaordController;
 use App\Http\Controllers\Admin\StudentManagementController;
+use App\Http\Controllers\Admin\FeeManagement;
+use App\Http\Controllers\Admin\LibraryManagementContoller;
+use App\Http\Controllers\Admin\SchoolManagement;
 use App\Http\Controllers\Student\Dashboard;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\WebsiteController;
@@ -32,9 +35,16 @@ Route::middleware(['auth', 'admin'])->prefix('admin/')->name('admin.')->group( f
     Route::get('students-management', [StudentManagementController::class, 'index'])->name('students');
     Route::get('student-management/add', [StudentManagementController::class, 'addStudent'])->name('student.add');
     Route::post('student-management/store', [StudentManagementController::class, 'storeStudent'])->name('student.store');
+    Route::get('student-management/{student}/display/{registration}', [StudentManagementController::class, 'getStudent'])->name('student.get');
+
+
+    Route::get('fee-management', [FeeManagement::class, 'index'])->name('fee');
+
+    Route::get('library-management', [LibraryManagementContoller::class, 'index'])->name('library');
+
+    Route::get('school-management', [SchoolManagement::class, 'index'])->name('school');
 
 });
-
 
 Route::middleware(['auth', 'student'])->prefix('student/')->name('student.')->group( function() {
     Route::get('dashboard', [Dashboard::class, 'index'])->name('dashboard');

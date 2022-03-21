@@ -20,6 +20,14 @@ return new class extends Migration
             $table->timestamp('email_verified_at')->nullable();
             $table->string('password');
             $table->enum('role', ['admin', 'student'])->default('student');
+            $table->string('registration_number');
+            $table->string('department');
+            $table->string('faculty');
+            $table->string('gender');
+            $table->string('sessionOfEnrolement');
+            $table->timestamp('dob')->nullable();
+            $table->string('mobileNumber')->nullable();
+            $table->enum('temp_password', ['YES', 'NO'])->default('YES');
             $table->rememberToken();
             $table->timestamps();
         });

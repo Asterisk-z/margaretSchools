@@ -26,6 +26,9 @@
 
 <body class="app sidebar-mini ltr">
 
+    @include('sweetalert::alert', ['cdn' => 'https://cdn.jsdelivr.net/npm/sweetalert2@9'])
+
+
     @inertia
 
 
@@ -38,6 +41,12 @@
 
     <script src="{{ asset('assets/js/themeColors.js') }}"></script>
 
+    <script src="{{ asset('assets/plugins/calendar/underscore-min.js') }}"></script>
+    <script src="{{ asset('assets/plugins/calendar/moment.js') }}"></script>
+    <script src="{{ asset('assets/plugins/calendar/calendar.js') }}"></script>
+    <script src="{{ asset('assets/plugins/calendar/defaultcalendar.js') }}"></script>
+
+
     <script src="{{ asset('assets/plugins/sidebar/sidebar.js') }}"></script>
 
     <script src="{{ asset('assets/plugins/sidemenu/sidemenu.js') }}"></script>
@@ -45,6 +54,17 @@
     <script src="{{ asset('assets/js/sticky.js') }}"></script>
 
     <script src="{{ asset('assets/js/custom.js') }}"></script>
+
+    <style>
+        h2.swal2-title {
+            font-size: 15px !important;
+        }
+
+        swal2-x-mark {
+            width: 50% !importantt;
+        }
+
+    </style>
 
 </body>
 

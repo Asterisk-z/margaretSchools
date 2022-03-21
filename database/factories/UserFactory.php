@@ -24,6 +24,14 @@ class UserFactory extends Factory
             'email_verified_at' => now(),
             'password' => Hash::make('123456'),
             'remember_token' => Str::random(10),
+            'registration_number' => 'student'.Str::random(5),
+            'department' => 'Math',
+            'faculty' => 'Engineering',
+            'gender' => 'male',
+            'sessionOfEnrolement' => '2021/2022',
+            'dob' => now(),
+            'temp_password' => 'NO',
+            'mobileNumber' => '123456789',
         ];
     }
 

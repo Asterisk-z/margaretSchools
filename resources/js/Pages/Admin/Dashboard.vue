@@ -12,7 +12,7 @@
                             <div class="d-flex">
                                 <div class="mt-2">
                                     <h6 class="">Total Students</h6>
-                                    <h2 class="mb-0 number-font">44,278</h2>
+                                    <h2 class="mb-0 number-font">00</h2>
                                 </div>
                             </div>
                         </div>
@@ -24,7 +24,7 @@
                             <div class="d-flex">
                                 <div class="mt-2">
                                     <h6 class="">Total Course</h6>
-                                    <h2 class="mb-0 number-font">67,987</h2>
+                                    <h2 class="mb-0 number-font">00</h2>
                                 </div>
                             </div>
                         </div>
@@ -36,7 +36,7 @@
                             <div class="d-flex">
                                 <div class="mt-2">
                                     <h6 class="">Total Department</h6>
-                                    <h2 class="mb-0 number-font">76,965</h2>
+                                    <h2 class="mb-0 number-font">00</h2>
                                 </div>
                             </div>
                         </div>
@@ -48,7 +48,7 @@
                             <div class="d-flex">
                                 <div class="mt-2">
                                     <h6 class="">Total Dues</h6>
-                                    <h2 class="mb-0 number-font">59,765</h2>
+                                    <h2 class="mb-0 number-font">00</h2>
                                 </div>
                             </div>
                         </div>
@@ -60,7 +60,7 @@
                             <div class="d-flex">
                                 <div class="mt-2">
                                     <h6 class="">Total Acceptance Fee</h6>
-                                    <h2 class="mb-0 number-font">59,765</h2>
+                                    <h2 class="mb-0 number-font">00.00</h2>
                                 </div>
                             </div>
                         </div>
@@ -72,9 +72,19 @@
                             <div class="d-flex">
                                 <div class="mt-2">
                                     <h6 class="">Total School Fee</h6>
-                                    <h2 class="mb-0 number-font">59,765</h2>
+                                    <h2 class="mb-0 number-font">00.00</h2>
                                 </div>
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12 col-xl-12">
+                    <div class="card">
+                        <div class="card-body">
+                            <div class="cal1"></div>
                         </div>
                     </div>
                 </div>
