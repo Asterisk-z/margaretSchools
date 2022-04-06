@@ -20990,40 +20990,30 @@ var _hoisted_6 = {
   "class": "wrap-login100 p-6"
 };
 
-var _hoisted_7 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
-  "class": "text-center mb-6"
-}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("img", {
-  src: "assets/images/logo.png",
-  "class": "header-brand-img",
-  alt: ""
-})], -1
-/* HOISTED */
-);
-
-var _hoisted_8 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
+var _hoisted_7 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
   "class": "login100-form-title pb-5"
-}, " Provide Login Detail ", -1
+}, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Postgraduate School "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" University Of Calabar "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" Provide Login Detail ")], -1
 /* HOISTED */
 );
 
-var _hoisted_9 = {
+var _hoisted_8 = {
   "class": "panel panel-primary"
 };
-var _hoisted_10 = {
+var _hoisted_9 = {
   "class": "panel-body tabs-menu-body p-0 pt-3"
 };
-var _hoisted_11 = {
+var _hoisted_10 = {
   "class": "tab-content"
 };
-var _hoisted_12 = {
+var _hoisted_11 = {
   "class": "tab-pane active",
   id: "tab5"
 };
-var _hoisted_13 = {
+var _hoisted_12 = {
   "class": "wrap-input100 validate-input input-group"
 };
 
-var _hoisted_14 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+var _hoisted_13 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
   href: "javascript:void(0)",
   "class": "input-group-text bg-theme text-yellow"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
@@ -21033,16 +21023,16 @@ var _hoisted_14 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
 /* HOISTED */
 );
 
-var _hoisted_15 = {
+var _hoisted_14 = {
   key: 0,
   "class": "w-100 text-red text-capitalize ps-7 font-1 mt-1"
 };
-var _hoisted_16 = {
+var _hoisted_15 = {
   "class": "wrap-input100 validate-input input-group",
   id: "Password-toggle"
 };
 
-var _hoisted_17 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
+var _hoisted_16 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("a", {
   href: "javascript:void(0)",
   "class": "input-group-text bg-theme text-yellow"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", {
@@ -21052,12 +21042,12 @@ var _hoisted_17 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElement
 /* HOISTED */
 );
 
-var _hoisted_18 = {
+var _hoisted_17 = {
   key: 0,
   "class": "w-100 text-red text-capitalize ps-7 font-1 mt-1"
 };
 
-var _hoisted_19 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
+var _hoisted_18 = /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
   "class": "container-login100-form-btn"
 }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("button", {
   type: "submit",
@@ -21076,12 +21066,12 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     _: 1
     /* STABLE */
 
-  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_6, [_hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("form", {
+  }), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_2, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_3, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_4, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" <div class=\"col col-login mx-auto\">\n                        <div class=\"text-center\">\n                            <img  src=\"assets/images/logo.png\" class=\"header-brand-img\" alt=\"\" width=\"100px\">\n                        </div>\n                    </div> "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_5, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_6, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" <div class=\"text-center mb-6\">\n                            <img src=\"assets/images/logo.png\" class=\"header-brand-img\" alt=\"\">\n                        </div> "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("form", {
     "class": "login100-form",
     onSubmit: _cache[2] || (_cache[2] = (0,vue__WEBPACK_IMPORTED_MODULE_0__.withModifiers)(function () {
       return $options.login && $options.login.apply($options, arguments);
     }, ["prevent"]))
-  }, [_hoisted_8, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_10, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_12, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_13, [_hoisted_14, (0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
+  }, [_hoisted_7, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_8, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_9, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_10, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_11, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_12, [_hoisted_13, (0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
     "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)(["input100 border-start-0 form-control ms-0", {
       'is-invalid': $props.errors.email
     }]),
@@ -21092,9 +21082,9 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     })
   }, null, 2
   /* CLASS */
-  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.email]]), $props.errors.email ? ((0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("span", _hoisted_15, (0,vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)($props.errors.email), 1
+  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.email]]), $props.errors.email ? ((0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("span", _hoisted_14, (0,vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)($props.errors.email), 1
   /* TEXT */
-  )) : (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("v-if", true)]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_16, [_hoisted_17, (0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
+  )) : (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("v-if", true)]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", _hoisted_15, [_hoisted_16, (0,vue__WEBPACK_IMPORTED_MODULE_0__.withDirectives)((0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("input", {
     "class": (0,vue__WEBPACK_IMPORTED_MODULE_0__.normalizeClass)(["input100 border-start-0 form-control ms-0", {
       'is-invalid': $props.errors.password
     }]),
@@ -21105,9 +21095,9 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     })
   }, null, 2
   /* CLASS */
-  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.password]]), $props.errors.password ? ((0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("span", _hoisted_18, (0,vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)($props.errors.password), 1
+  ), [[vue__WEBPACK_IMPORTED_MODULE_0__.vModelText, $data.form.password]]), $props.errors.password ? ((0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("span", _hoisted_17, (0,vue__WEBPACK_IMPORTED_MODULE_0__.toDisplayString)($props.errors.password), 1
   /* TEXT */
-  )) : (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("v-if", true)]), _hoisted_19])])])])], 32
+  )) : (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)("v-if", true)]), _hoisted_18])])])])], 32
   /* HYDRATE_EVENTS */
   )])])])])])], 64
   /* STABLE_FRAGMENT */
@@ -21243,7 +21233,7 @@ var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
     "class": "hero-content-two mt-150 mb-120"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
     "class": "sub-title wow fadeInUp delay-0-2s"
-  }, "Welcome to Margaret Schools"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h1", {
+  }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)("Welcome to Postgraduate School,"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("br"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createTextVNode)(" University Of Calabar")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h1", {
     "class": "wow fadeInUp delay-0-4s"
   }, "The Best Education that set standard"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "hero-btn mt-15 wow fadeInUp delay-0-8s"
@@ -21288,7 +21278,7 @@ var _hoisted_1 = /*#__PURE__*/_withScopeId(function () {
     "class": "section-title mb-30"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("span", {
     "class": "sub-title"
-  }, "Who We Are"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h2", null, "Margaret Schools")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", null, "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa libero voluptates debitis facere dolorum nisi id quae blanditiis omnis voluptate amet deleniti incidunt commodi tempore, inventore neque voluptatem repellendus a?"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", null, "Natus sit voluptate maccusantium doloremque laudantium totam rem aperiam eaque ipsa quae inventore")])])])])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" About Section End "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Offer Section Start "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", {
+  }, "Who We Are"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("h2", null, "Postgraduate School, University Of Calabar")]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("p", null, "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa libero voluptates debitis facere dolorum nisi id quae blanditiis omnis voluptate amet deleniti incidunt commodi tempore, inventore neque voluptatem repellendus a?"), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("i", null, "Natus sit voluptate maccusantium doloremque laudantium totam rem aperiam eaque ipsa quae inventore")])])])])]), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" About Section End "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" Offer Section Start "), /*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("section", {
     "class": "offer-section text-center rel z-1 pt-20 pb-50 rpt-40"
   }, [/*#__PURE__*/(0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("div", {
     "class": "container"
@@ -21646,7 +21636,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     lass: "header-brand-img light-logo",
     alt: "logo",
     style: {
-      "max-width": "50px"
+      "max-width": "100px"
     }
   }, null, 8
   /* PROPS */
@@ -21910,7 +21900,7 @@ function render(_ctx, _cache, $props, $setup, $data, $options) {
     _: 1
     /* STABLE */
 
-  })]), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" <li class=\"slide\">\n            <Link class=\"side-menu__item\" data-bs-toggle=\"slide\" href=\"/admin/students-management\">\n                <i class=\"side-menu__icon fe fe-layers\"></i><span class=\"side-menu__label\">Session</span>\n            </Link>\n        </li>\n         <li class=\"slide\">\n            <Link class=\"side-menu__item\" data-bs-toggle=\"slide\" href=\"/admin/students-management\">\n                <i class=\"side-menu__icon fe fe-layers\"></i><span class=\"side-menu__label\">Department</span>\n            </Link>\n        </li>\n        <li class=\"slide\">\n            <Link class=\"side-menu__item\" data-bs-toggle=\"slide\" href=\"/admin/students-management\">\n                <i class=\"side-menu__icon fe fe-layers\"></i><span class=\"side-menu__label\">Faculty</span>\n            </Link>\n        </li>\n        <li class=\"slide\">\n            <Link class=\"side-menu__item\" data-bs-toggle=\"slide\" href=\"/admin/students-management\">\n                <i class=\"side-menu__icon fe fe-layers\"></i><span class=\"side-menu__label\">Courses</span>\n            </Link>\n        </li>\n        <li class=\"slide\">\n            <Link class=\"side-menu__item\" data-bs-toggle=\"slide\" href=\"/admin/students-management\">\n                <i class=\"side-menu__icon fe fe-layers\"></i><span class=\"side-menu__label\">Hostel</span>\n            </Link>\n        </li>"), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" <li class=\"slide\">\n            <Link class=\"side-menu__item\" data-bs-toggle=\"slide\" href=\"/admin/students-management\">\n                <i class=\"side-menu__icon fe fe-layers\"></i><span class=\"side-menu__label\">Medical Center</span>\n            </Link>\n        </li> "), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createCommentVNode)(" <li class=\"slide\">\n            <Link class=\"side-menu__item\" data-bs-toggle=\"slide\" href=\"/admin/students-management\">\n                <i class=\"side-menu__icon fe fe-layers\"></i><span class=\"side-menu__label\">Transcript</span>\n            </Link>\n        </li> ")])) : ((0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("ul", _hoisted_20, [_hoisted_21, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_22, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Link, {
+  })])])) : ((0,vue__WEBPACK_IMPORTED_MODULE_0__.openBlock)(), (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementBlock)("ul", _hoisted_20, [_hoisted_21, (0,vue__WEBPACK_IMPORTED_MODULE_0__.createElementVNode)("li", _hoisted_22, [(0,vue__WEBPACK_IMPORTED_MODULE_0__.createVNode)(_component_Link, {
     "class": "side-menu__item",
     "data-bs-toggle": "slide",
     href: "/student/dashboard"
@@ -22117,7 +22107,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(function(i){return i[1]});
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, ".logo {\n    width: 50%;\n}\n\n.main-menu .mobile-logo {\n    width: 50%;\n}\n\n.hero-right-image .clock {\n    max-width: 70% !important;\n}\n\n.hero-right-image .background {\n    max-width: 100% !important;\n}\n\n@media screen and (max-width: 992px) {\n    .main-menu .mobile-logo {\n        max-width: 80px;\n    }\n}\n\n.footer-subscribe form input {\n    background: #d4d4d4;\n}\n\n.copyright-area .footer-menu li a::hover {\n    color: #000000 !important;\n}\n\n.bg-light-theme {\n    background-color: #d4d4d4;\n}\n\n@media screen and (max-width: 480px) {\n    #subscribe {\n        margin: auto;\n        margin-top: 5px;\n    }\n}\n\n.courses {\n    max-width: 150px;\n}\n\n.header-brand-img {\n    width: 52px;\n}\n\n.login-img {\n    background-color: #799AA1;\n}\n\n.header-brand-img.light-logo {\n    max-width: 50px !important;\n}\n\n\n/* @media  (min-width: 992px) {\n    .main-menu .mobile-logo {\n        max-width: 80px;\n    }\n} */\n", ""]);
+___CSS_LOADER_EXPORT___.push([module.id, ".logo {\n    width: 50%;\n}\n\n.main-menu .mobile-logo {\n    width: 50%;\n}\n\n.hero-right-image .clock {\n    max-width: 70% !important;\n}\n\n.hero-right-image .background {\n    max-width: 100% !important;\n}\n\n@media screen and (max-width: 992px) {\n    .main-menu .mobile-logo {\n        max-width: 170px;\n    }\n}\n\n.footer-subscribe form input {\n    background: #d4d4d4;\n}\n\n.copyright-area .footer-menu li a::hover {\n    color: #000000 !important;\n}\n\n.bg-light-theme {\n    background-color: #d4d4d4;\n}\n\n@media screen and (max-width: 480px) {\n    #subscribe {\n        margin: auto;\n        margin-top: 5px;\n    }\n}\n\n.courses {\n    max-width: 150px;\n}\n\n.header-brand-img {\n    width: 52px;\n}\n\n.login-img {\n    background-color: #799AA1;\n}\n\n.header-brand-img.light-logo {\n    max-width: 170px !important;\n}\n\n\n/* @media  (min-width: 992px) {\n    .main-menu .mobile-logo {\n        max-width: 80px;\n    }\n} */\n", ""]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 

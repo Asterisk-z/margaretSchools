@@ -16,7 +16,7 @@
 
 @media screen and (max-width: 992px) {
     .main-menu .mobile-logo {
-        max-width: 80px;
+        max-width: 170px;
     }
 }
 
@@ -52,7 +52,7 @@
 }
 
 .header-brand-img.light-logo {
-    max-width: 50px !important;
+    max-width: 170px !important;
 }
 
 

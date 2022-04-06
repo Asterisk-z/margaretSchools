@@ -31,41 +31,6 @@
                 <i class="side-menu__icon fe fe-book"></i><span class="side-menu__label">Library</span>
             </Link>
         </li>
-       <!-- <li class="slide">
-            <Link class="side-menu__item" data-bs-toggle="slide" href="/admin/students-management">
-                <i class="side-menu__icon fe fe-layers"></i><span class="side-menu__label">Session</span>
-            </Link>
-        </li>
-         <li class="slide">
-            <Link class="side-menu__item" data-bs-toggle="slide" href="/admin/students-management">
-                <i class="side-menu__icon fe fe-layers"></i><span class="side-menu__label">Department</span>
-            </Link>
-        </li>
-        <li class="slide">
-            <Link class="side-menu__item" data-bs-toggle="slide" href="/admin/students-management">
-                <i class="side-menu__icon fe fe-layers"></i><span class="side-menu__label">Faculty</span>
-            </Link>
-        </li>
-        <li class="slide">
-            <Link class="side-menu__item" data-bs-toggle="slide" href="/admin/students-management">
-                <i class="side-menu__icon fe fe-layers"></i><span class="side-menu__label">Courses</span>
-            </Link>
-        </li>
-        <li class="slide">
-            <Link class="side-menu__item" data-bs-toggle="slide" href="/admin/students-management">
-                <i class="side-menu__icon fe fe-layers"></i><span class="side-menu__label">Hostel</span>
-            </Link>
-        </li>-->
-        <!-- <li class="slide">
-            <Link class="side-menu__item" data-bs-toggle="slide" href="/admin/students-management">
-                <i class="side-menu__icon fe fe-layers"></i><span class="side-menu__label">Medical Center</span>
-            </Link>
-        </li> -->
-        <!-- <li class="slide">
-            <Link class="side-menu__item" data-bs-toggle="slide" href="/admin/students-management">
-                <i class="side-menu__icon fe fe-layers"></i><span class="side-menu__label">Transcript</span>
-            </Link>
-        </li> -->
     </ul>
     <ul class="side-menu" v-else>
         <li class="sub-category">

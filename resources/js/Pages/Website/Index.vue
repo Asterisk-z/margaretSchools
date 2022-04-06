@@ -62,7 +62,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-7">
                         <div class="hero-content-two mt-150 mb-120">
-                           <span class="sub-title wow fadeInUp delay-0-2s">Welcome to Margaret Schools</span>
+                           <span class="sub-title wow fadeInUp delay-0-2s">Welcome to Postgraduate School,<br> University Of Calabar</span>
                             <h1 class="wow fadeInUp delay-0-4s">The Best Education that set standard</h1>
                             <div class="hero-btn mt-15 wow fadeInUp delay-0-8s">
                                 <a href="#" class="theme-btn mt-15 style-four br-5">Get Enlightened<i class="fas fa-long-arrow-alt-right"></i></a>
@@ -94,7 +94,7 @@
                         <div class="about-content wow fadeInRight delay-0-2s">
                             <div class="section-title mb-30">
                                 <span class="sub-title">Who We Are</span>
-                                <h2>Margaret Schools</h2>
+                                <h2>Postgraduate School, University Of Calabar</h2>
                             </div>
                             <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Ipsa libero voluptates debitis facere dolorum nisi id quae blanditiis omnis voluptate amet deleniti incidunt commodi tempore, inventore neque voluptatem repellendus a?</p>
                             <i>Natus sit voluptate maccusantium doloremque laudantium totam rem aperiam eaque ipsa quae inventore</i>
