@@ -52,7 +52,7 @@ a:hover {
 }
 
 .home-two a:hover {
-    color: #799AA1;
+    color: #9C1111;
 }
 
 h1,
@@ -409,7 +409,7 @@ input[type=radio] {
 
 .home-two .section-title .sub-title {
     font-weight: 600;
-    color: #799AA1;
+    color: #9C1111;
 }
 
 .home-two input,
@@ -417,7 +417,7 @@ input[type=radio] {
 .home-two textarea,
 .home-two .nice-select,
 .home-two .form-control {
-    border-color: #799AA1;
+    border-color: #9C1111;
 }
 
 .bg-text {
@@ -570,8 +570,8 @@ a.theme-btn.style-two:hover {
 .theme-btn.style-three,
 a.theme-btn.style-three {
     color: white;
-    background: #799AA1;
-    border-color: #799AA1;
+    background: #9C1111;
+    border-color: #9C1111;
 }
 
 .theme-btn.style-three:after,
@@ -583,7 +583,7 @@ a.theme-btn.style-three:before {
 
 .theme-btn.style-three:hover,
 a.theme-btn.style-three:hover {
-    color: #799AA1;
+    color: #9C1111;
 }
 
 .theme-btn.style-four,
@@ -597,7 +597,7 @@ a.theme-btn.style-four {
 .theme-btn.style-four:before,
 a.theme-btn.style-four:after,
 a.theme-btn.style-four:before {
-    background: #799AA1;
+    background: #9C1111;
 }
 
 .theme-btn.style-four:hover,
@@ -999,7 +999,7 @@ a.theme-btn.style-seven:hover {
     line-height: 115px;
     border-radius: 50%;
     text-align: center;
-    color: #799AA1;
+    color: #9C1111;
     -webkit-transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
@@ -1093,7 +1093,7 @@ a.theme-btn.style-seven:hover {
 }
 
 .bg-green {
-    background-color: #799AA1;
+    background-color: #9C1111;
 }
 
 .bg-yellow {
@@ -4580,7 +4580,7 @@ h6,
 }
 
 .header-two.fixed-header .header-upper {
-    background: #799AA1;
+    background: #9C1111;
 }
 
 
@@ -5338,7 +5338,7 @@ h6,
     color: white;
     width: 60px;
     height: 60px;
-    background: #799AA1;
+    background: #9C1111;
     line-height: 60px;
     border-radius: 50%;
     text-align: center;
@@ -5992,13 +5992,13 @@ h6,
     background: white;
     line-height: 53px;
     text-align: center;
-    color: #799AA1;
+    color: #9C1111;
     border: 1px solid rgba(121, 154, 161, 0.2);
 }
 
 .feedback-arrows button:hover {
     color: white;
-    background: #799AA1;
+    background: #9C1111;
 }
 
 .feedback-arrows button:first-child {
@@ -6051,7 +6051,7 @@ h6,
     -o-transition: 0.2s;
     transition: 0.2s;
     position: absolute;
-    background: #799AA1;
+    background: #9C1111;
 }
 
 .feedback-item:before,
@@ -6138,7 +6138,7 @@ h6,
 
 .feedback-item .quote-rating>i {
     font-size: 55px;
-    color: #799AA1;
+    color: #9C1111;
 }
 
 .feedback-item .quote-rating .rating {
@@ -6161,7 +6161,7 @@ h6,
 
 .feedback-item .quote-rating .rating span {
     font-weight: 600;
-    color: #799AA1;
+    color: #9C1111;
     font-family: "Montserrat", sans-serif;
 }
 
@@ -6231,7 +6231,7 @@ h6,
     border-radius: 0;
     overflow: inherit;
     position: absolute;
-    background: #799AA1;
+    background: #9C1111;
 }
 
 .feedback-progress .progress:after {
@@ -6244,7 +6244,7 @@ h6,
     transform: translate(50%, -50%);
     width: 25px;
     height: 25px;
-    background: #799AA1;
+    background: #9C1111;
     line-height: 25px;
     border-radius: 50%;
     text-align: center;
@@ -7900,7 +7900,7 @@ h6,
 }
 
 .offer-item:hover {
-    background: #799aa1;
+    background: #9C1111;
 }
 
 .offer-item:hover i,
@@ -7909,11 +7909,11 @@ h6,
 }
 
 .home-two .offer-item i {
-    color: #799AA1;
+    color: #9C1111;
 }
 
 .home-two .offer-item:hover {
-    background: #799AA1;
+    background: #9C1111;
 }
 
 .home-two .offer-item:hover i {
@@ -8051,7 +8051,7 @@ h6,
 
 .home-two .pricing-item>i,
 .home-two .pricing-title .price {
-    color: #799AA1;
+    color: #9C1111;
 }
 
 
@@ -10019,7 +10019,7 @@ h6,
     font-size: 75px;
     line-height: 1.4;
     margin-right: 35px;
-    color: #799AA1;
+    color: #9C1111;
 }
 
 .footer-subscribe .subscribe-title h3 {

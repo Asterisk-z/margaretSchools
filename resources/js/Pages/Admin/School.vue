@@ -26,7 +26,18 @@
 
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xl-4">
-                    <div class="card overflow-hidden bg-cyan-light text-white">
+                    <div class="card overflow-hidden text-dark theme-light">
+                        <div class="card-body">
+                            <div class="d-flex ">
+                                <div class="mt-2">
+                                    <h3 class="number-font "><Link href="/admin/faculty-management">Faculty</Link>    </h3>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12 col-xl-4">
+                    <div class="card overflow-hidden text-dark theme-light">
                         <div class="card-body">
                             <div class="d-flex ">
                                 <div class="mt-2">
@@ -37,7 +48,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xl-4">
-                    <div class="card overflow-hidden bg-cyan-light text-white">
+                    <div class="card overflow-hidden text-dark theme-light">
                         <div class="card-body">
                             <div class="d-flex ">
                                 <div class="mt-2">
@@ -48,7 +59,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xl-4">
-                    <div class="card overflow-hidden bg-cyan-light text-white">
+                    <div class="card overflow-hidden text-dark theme-light">
                         <div class="card-body">
                             <div class="d-flex ">
                                 <div class="mt-2">
@@ -59,18 +70,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xl-4">
-                    <div class="card overflow-hidden bg-cyan-light text-white">
-                        <div class="card-body">
-                            <div class="d-flex ">
-                                <div class="mt-2">
-                                    <h3 class="number-font "><Link href="#">Faculty</Link>    </h3>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-4 col-sm-12 col-xl-4">
-                    <div class="card overflow-hidden bg-cyan-light text-white">
+                    <div class="card overflow-hidden text-dark theme-light">
                         <div class="card-body">
                             <div class="d-flex ">
                                 <div class="mt-2">
@@ -81,7 +81,7 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xl-4">
-                    <div class="card overflow-hidden bg-cyan-light text-white">
+                    <div class="card overflow-hidden text-dark theme-light">
                         <div class="card-body">
                             <div class="d-flex ">
                                 <div class="mt-2">

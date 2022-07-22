@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Admin\DashbaordController;
+use App\Http\Controllers\Admin\FacultyManagement;
 use App\Http\Controllers\Admin\StudentManagementController;
 use App\Http\Controllers\Admin\FeeManagement;
 use App\Http\Controllers\Admin\LibraryManagementContoller;
@@ -43,6 +44,9 @@ Route::middleware(['auth', 'admin'])->prefix('admin/')->name('admin.')->group( f
     Route::get('library-management', [LibraryManagementContoller::class, 'index'])->name('library');
 
     Route::get('school-management', [SchoolManagement::class, 'index'])->name('school');
+
+    Route::get('faculty-management', [FacultyManagement::class, 'index'])->name('faculty');
+    Route::post('faculty-management/add', [FacultyManagement::class, 'add'])->name('faculty.add');
 
 });
 

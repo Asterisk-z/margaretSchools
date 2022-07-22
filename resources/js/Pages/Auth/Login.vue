@@ -6,21 +6,18 @@
     <div class="login-img">
         <div class="page">
             <div class="">
-                    <!-- <div class="col col-login mx-auto">
+                    <div class="col col-login mx-auto">
                         <div class="text-center">
                             <img  src="assets/images/logo.png" class="header-brand-img" alt="" width="100px">
                         </div>
-                    </div> -->
+                    </div>
 
                 <div class="container-login100">
 
                     <div class="wrap-login100 p-6">
-                        <!-- <div class="text-center mb-6">
-                            <img src="assets/images/logo.png" class="header-brand-img" alt="">
-                        </div> -->
+
                         <form class="login100-form " @submit.prevent="login">
                             <span class="login100-form-title pb-5">
-                                Postgraduate School <br> University Of Calabar <br>
                                 Provide Login Detail
                             </span>
                             <div class="panel panel-primary">
@@ -89,3 +86,10 @@ export default {
   }
 }
 </script>
+
+
+<style scoped>
+.header-brand-img {
+    width: 202px !important;
+}
+</style>

@@ -74,7 +74,7 @@
                                                 <option value="female">Female</option>
                                         </select>
                                     </div>
-                                    <label class="col-md-2 form-label">Date :</label>
+                                    <label class="col-md-2 form-label">Date Of Birth:</label>
                                     <div class="col-md-4">
                                         <input type="date" class="form-control"  :class="{'is-invalid': errors.dob}"  v-model="form.dob">
                                     </div>

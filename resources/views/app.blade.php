@@ -66,6 +66,9 @@
 
     </style>
 
+    <script>
+        console.clear();
+    </script>
 </body>
 
 </html>

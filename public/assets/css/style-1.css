@@ -57274,6 +57274,7 @@ body.rtl {
     -o-transition: left 0.3s ease, width 450ms ease;
     transition: left 0.3s ease, width 450ms ease;
     height: 67px;
+    background: #5a6970;
 }
 
 .side-header .header-brand-img.toggle-logo,
@@ -66218,7 +66219,7 @@ button.bg-yellow:focus {
 }
 
 .bg-green {
-    background: #4ecc48;
+    background: #9C1111;
     color: #fff !important;
 }
 
@@ -70002,9 +70003,24 @@ textarea.form-control {
     width: 30px !important;
 }
 
+.theme-light {
+    background: #c7e0fd;
+}
+
+.theme-light:hover {
+    background: #195e7a;
+}
+
+.theme-light a:hover {
+    color: #ffffff;
+}
+
+.theme-outline-active {
+    outline: 1px solid #c7e0fd;
+}
+
 @media (max-width: 576px) {
     .w-sm-50 {
         width: 50% !important;
     }
 }
-
